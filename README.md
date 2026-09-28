@@ -5,6 +5,7 @@
 <img width="225" height="124" alt="image" src="https://github.com/user-attachments/assets/edd4c515-1837-42d7-abe2-e1ba56fc489a" />
 
 測試2:
+
 1.
 input 
 int result = 1 + 20 + 6 ; 
